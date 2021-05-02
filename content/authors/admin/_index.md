@@ -14,7 +14,7 @@ organizations:
   url: https://www.uni-wuerzburg.de/startseite/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on the exploration of new topological quantum materials. A specific example is the realization of a new phase of matter called *topological insulators*. I advance the fabrication of the one-atom layer thick topological insulator *bismuthene* and study its fundamental quantum mecahnical properties with scanning tunneling microscopy and photoelectron spectroscopy techniques.
+bio: My research focuses on the exploration of new topological quantum materials.
 
 # Interests to show in About widget
 interests:
@@ -66,6 +66,6 @@ email: ""
 highlight_name: false
 ---
 
-Hi, I'm a PhD student in Physics at the University of Würzburg. My research focuses on the exploration of new materials for spintronic applications and quantum computation. A specific example is the realization of a new phase of matter called *topological insulators*. I advance the fabrication of the one-atom layer thick topological insulator *bismuthene* and study its fundamental quantum mecahnical properties with scanning tunneling microscopy and photoelectron spectroscopy techniques.
+Hi, I'm a PhD student in Physics at the University of Würzburg. My research focuses on the exploration of new materials for spintronic applications and quantum computation. A specific example is the realization of a new phase of matter called *topological insulators*. I advance the fabrication of the one-atom layer thick topological insulator *bismuthene* and study its fundamental quantum mechanical properties with scanning tunneling microscopy and photoelectron spectroscopy techniques.
 
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
