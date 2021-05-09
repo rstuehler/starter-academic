@@ -11,6 +11,10 @@ authors:
 - W. Ossau
 - L. W. Molenkamp
 
+# Author notes (optional)
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 
 # date: "2013-07-01T00:00:00Z"
 doi: "https://doi.org/10.1063/1.4931369"
