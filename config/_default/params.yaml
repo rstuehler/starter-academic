@@ -29,6 +29,10 @@ address:
   country: Germany
   country_code: DE
 
+coordinates:
+  latitude:  49.782362
+  longitude: 9.972201
+
 # Site header
 
 main_menu:
