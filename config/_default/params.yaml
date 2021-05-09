@@ -21,7 +21,6 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: raul.stuehler@physik.uni-wuerzburg.de
-# phone: 888 888 88 88
 address:
   street: Am Hubland
   city: Würzburg
@@ -116,7 +115,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: 2
   api_key: ''
   zoom: 15
 marketing:
