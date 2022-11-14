@@ -19,7 +19,8 @@ bio: My research focuses on the exploration of new topological quantum materials
 # Interests to show in About widget
 interests:
 - Topological Quantum Materials 
-- Fundamental Research 
+- Condensed matter physics
+- Semiconductors 
 
 # Education to show in About widget
 education:
@@ -29,7 +30,7 @@ education:
     year: ongoing
   - course: MSc in Physics (FOKUS, Elitenetzwerk Bayern)
     institution: Julius-Maximilians-Universität Würzburg
-    year: 2017
+    year: 2018
   - course: BSc in Physics
     institution: Julius-Maximilians-Universität Würzburg
     year: 2015
@@ -45,9 +46,9 @@ social:
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #  icon_pack: fas
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/rstuehler
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/rstuehler
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
